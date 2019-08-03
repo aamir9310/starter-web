@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Name - Aamir
+    Mail - aamir9310
 
 # THANKS
 
