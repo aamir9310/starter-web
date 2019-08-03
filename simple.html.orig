@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<head>
+<<<<<<< HEAD
+Name - Aamir
+=======
+Name - Zafar-test
+>>>>>>> realwork
+	<My Title>Great work you are doing</title>
+	very useful  
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+		</p>
+	</main>
+	<footer class="container">
+<<<<<<< HEAD
+		<p>&copy;Welcome 2 IBM again</p>
+=======
+		<p>&copy; Good morning,Have a grat day</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
+adding contents in realwork
+</html>
