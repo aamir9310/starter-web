@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 
 
 ## modified file for working area
+
+
+##copyright
