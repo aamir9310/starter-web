@@ -2,13 +2,14 @@
 2. my second edit
 3. moving to stagging area
 4. added for commit
-<<<<<<< HEAD
-5. cherry-pick is very bad option
-=======
 5. cherry-pick great way to merge
+<<<<<<< HEAD
+6. Adding new lines
+=======
 >>>>>>> andy
 
 Name - Aamir
 Role - Devops
 Exp - 5 Years
 Loc - Noida
+
